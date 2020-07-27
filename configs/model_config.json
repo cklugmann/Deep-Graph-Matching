@@ -1,0 +1,7 @@
+{
+  "fixed_features": false,
+  "power_iterations": 30,
+  "sinkhorn_iterations": 20,
+  "alpha": 200.0,
+  "internal_dim": 512
+}

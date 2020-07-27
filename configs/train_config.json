@@ -1,0 +1,13 @@
+{
+  "batch_size_train": 4,
+  "optimizer" : {
+    "learning_rate": 0.0002,
+    "beta_a": 0.9,
+    "beta_b": 0.999
+  },
+  "batch_size_val": 16,
+  "num_images_to_print": 7,
+  "iters_per_epoch": 7000,
+  "experiments_base_path": "../experiments",
+  "save_weights_path": "../weights"
+}

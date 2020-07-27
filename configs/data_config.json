@@ -1,0 +1,8 @@
+{
+  "base_path": "C:/VOC/VOCdevkit/VOC2011",
+  "img_folder": "JPEGImages",
+  "annotation_folder": "ANNOTATIONS",
+  "graph_folder" : "graph",
+  "node_pad": 16,
+  "edge_pad": 100
+}
