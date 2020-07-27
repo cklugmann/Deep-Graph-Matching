@@ -1,5 +1,4 @@
 # Deep Learning of Graph Matching - Final Project
----
 
 This repository contains the code for my final project for the course 'Deep Vision' at the University of Heidelberg in summer term 2020.
 
@@ -16,7 +15,6 @@ The project is an implementation of the paper "Deep learning of graph matching" 
 ```
 
 ## Quick installation instructions
----
 
 1. Download [Pascal VOC 2011 dataset](http://host.robots.ox.ac.uk/pascal/VOC/voc2011/index.html).
 2. Download the [keypoint annotations](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/shape/poselets/voc2011_keypoints_Feb2012.tgz) from Berkeley and extract them within the VOC dataset folder.
